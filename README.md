@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا غرامي الشوق في قلبي يزيد
+> عيونك تسحرني من بعيد
+> أنا عاشق في حبك الوحيد
+> نبضات قلبي تنده لك أكيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
