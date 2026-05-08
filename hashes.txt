@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tareeq Mosh Beta3na
+
+This log tracks the cryptographic history and versioning for the song **Tareeq Mosh Beta3na** (tareeq-mosh-beta3na).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:52:15.025818 | `v1` | `5d49cf27cced73fc56f1aef2fc2a4a033ac2cc8302e28fe837c067d29a974e6b` | `55f54f912c0b20c0ef23d211583a76dcb4bc9ce22f826387921d3efc3ff655d6` | `2026-05-08_tareeq-mosh-beta3na-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
